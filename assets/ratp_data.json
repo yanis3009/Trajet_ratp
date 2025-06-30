@@ -1,0 +1,32 @@
+[
+  {
+    "ligne": "M1",
+    "depart": "La Défense",
+    "arrivee": "Châtelet",
+    "position_average": "Tête"
+  },
+  {
+    "ligne": "M1",
+    "depart": "Châtelet",
+    "arrivee": "La Défense",
+    "position_average": "Queue"
+  },
+  {
+    "ligne": "M4",
+    "depart": "Odéon",
+    "arrivee": "Gare du Nord",
+    "position_average": "Milieu"
+  },
+  {
+    "ligne": "M4",
+    "depart": "Gare du Nord",
+    "arrivee": "Odéon",
+    "position_average": "Milieu"
+  },
+  {
+    "ligne": "M14",
+    "depart": "Saint-Lazare",
+    "arrivee": "Bibliothèque François Mitterrand",
+    "position_average": "Tête"
+  }
+]
