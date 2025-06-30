@@ -10,13 +10,6 @@ Cette application mobile Flutter permet de calculer un trajet entre deux station
 - Affichage clair des lignes empruntées, correspondances et positions recommandées
 - Interface fluide et rapide grâce à un traitement 100% local
 
-## Captures d’écran
-
-![Saisie du trajet (sans champs)](assets/screens/champvierge.PNG)
-![Saisie de trajet (avec champs auto-complétés)](assets/screens/champsremplis.PNG)
-![Résultat de la saisie](assets/screens/résultat.PNG)
-![Exemple de message d'erreur](assets/screens/message_derreur.PNG)
-
 ## Architecture projet
 
 lib/
